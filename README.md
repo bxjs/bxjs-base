@@ -1,2 +1,2 @@
 # bxjs-base
-bxjs base framework &amp; api
+bxjs base framework & api
